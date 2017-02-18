@@ -42,6 +42,12 @@ echo "all systems nominal..."
 
 ``` brew install lynx ```
 
+``` 
+    ~/.lynxrc
+    show_color=never
+    vi_keys=on
+```
+
 ### Pandoc - A universal document converter
 
 ``` brew install pandoc ```
