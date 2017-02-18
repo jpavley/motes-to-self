@@ -24,9 +24,9 @@ echo "all systems nominal..."
 
 ## macOS Customizations
 
-- System Preferences/Keyboard/Modifier Keys/Caps Lock Key: Escape
-- System Preferences/Keyboard/Key Repeat: Fast
-- System Preferences/Keyboard/Delay Until Repeat: Short
+- System Preferences/Keyboard/Modifier Keys/Caps Lock Key: *Escape*
+- System Preferences/Keyboard/Key Repeat: *Fast*
+- System Preferences/Keyboard/Delay Until Repeat: *Short*
 
 ## Installed via Homebrew
 
