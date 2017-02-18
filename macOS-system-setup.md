@@ -7,8 +7,9 @@ john@pavley.com
 
 ### Install and update
 
-- Execute in the terminal: sh -c "`curl -fsSL https://raw.githubusercontent.com/skwp/dotfiles/master/install.sh `"
-- run to update: cd to ~/.yadr and execute rake update
+- Execute in the terminal: 
+``` sh -c "`curl -fsSL https://raw.githubusercontent.com/skwp/dotfiles/master/install.sh `" ```
+- run to update: cd to ~/.yadr and execute ``` rake update ```
 
 ### Cusomizations
 
